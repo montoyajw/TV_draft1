@@ -1,0 +1,27 @@
+h1{
+    color: navy;  
+    background-color ;
+    font-size: 3.0em;
+    line-height: 1.5em;
+  }
+
+#grad1{
+    background-image: linear-gradient(grey,blue)
+}
+  
+  h2{
+  color:green;
+  background-color:;
+  text-transform: capitalize;
+  font-size: 1.5em;
+  }
+
+p{
+    font-size: 1.25em;
+}
+
+title{
+color: navy;
+text-transform: capitalize;
+font-size: 3.0em;
+}

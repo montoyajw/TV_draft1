@@ -1,0 +1,13 @@
+p{
+    color: blue;  
+    background-color: coral;
+    font-size: 1.4em;
+    line-height: 1.5em;
+  }
+  
+  h2{
+  color: crimson;
+  background-color: gray;
+  text-transform: uppercase;
+  font-size: 2.0em;
+  }
