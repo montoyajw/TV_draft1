@@ -5,12 +5,14 @@ h1{
     line-height: 1.5em;
   }
 
-#grad1{
-    background-image: linear-gradient(grey,blue)
+ 
+body{
+
+    background:burlywood;
 }
   
   h2{
-  color:green;
+  color: purple;
   background-color:;
   text-transform: capitalize;
   font-size: 1.5em;
